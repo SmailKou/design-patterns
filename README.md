@@ -1,3 +1,3 @@
 # PHP design patterns
 
-run: composer install
+run: composer dump-autoload
